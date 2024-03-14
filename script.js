@@ -16,6 +16,12 @@ document.addEventListener('DOMContentLoaded', function() {
             url: 'https://imyuanhui.github.io/markdown-previewer'
         },
         { 
+            imageUrl: './assets/club.png',
+            title: 'Responsive Web Page',
+            keywords: 'React Javascript HTML CSS',
+            url: 'https://imyuanhui.github.io/boxing-club'
+        },
+        { 
             imageUrl: './assets/online-drum.png',
             title: 'Online Drum',
             keywords: 'Javascript HTML CSS',
@@ -32,6 +38,18 @@ document.addEventListener('DOMContentLoaded', function() {
             title: 'Random Quote Machine',
             keywords: 'Javascript HTML CSS',
             url: 'https://imyuanhui.github.io/random-quote-machine'
+        },
+        { 
+            imageUrl: './assets/timestamp.png',
+            title: 'Timestamp Mircoservice',
+            keywords: 'Node Express Javascript HTML CSS',
+            url: 'https://3000-freecodecam-boilerplate-wi2ngr0xs7o.ws-us110.gitpod.io/'
+        },
+        { 
+            imageUrl: './assets/parser.png',
+            title: 'Header Parser Microservice',
+            keywords: 'Node Express Javascript HTML CSS',
+            url: 'https://3000-freecodecam-boilerplate-z6vkcwscfzt.ws-us110.gitpod.io/'
         }
     ];
 
