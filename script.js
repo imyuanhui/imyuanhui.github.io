@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
       imageUrl: "./assets/parser.png",
       title: "Header Parser Microservice",
       keywords: "Node Express Javascript HTML CSS",
-      url: "https://3000-freecodecam-boilerplate-z6vkcwscfzt.ws-us110.gitpod.io/",
+      url: "https://headerparser-4lu3.onrender.com/",
     },
   ];
 
