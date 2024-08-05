@@ -57,6 +57,12 @@ document.addEventListener("DOMContentLoaded", function () {
       keywords: "Node Express Javascript HTML CSS",
       url: "https://urlshortener-een6.onrender.com/",
     },
+    {
+      imageUrl: "./assets/exerciseTracker.png",
+      title: "Exercise Tracker Microservice",
+      keywords: "Node Express Javascript HTML CSS",
+      url: "https://exercisetracker-yy3b.onrender.com/",
+    },
   ];
 
   cards.forEach(function (cardData) {
