@@ -51,6 +51,12 @@ document.addEventListener("DOMContentLoaded", function () {
       keywords: "Node Express Javascript HTML CSS",
       url: "https://headerparser-4lu3.onrender.com/",
     },
+    {
+      imageUrl: "./assets/shorturl.png",
+      title: "URL Shortener Microservice",
+      keywords: "Node Express Javascript HTML CSS",
+      url: "https://urlshortener-een6.onrender.com/",
+    },
   ];
 
   cards.forEach(function (cardData) {
