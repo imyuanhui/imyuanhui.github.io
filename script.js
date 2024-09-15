@@ -4,6 +4,13 @@ document.addEventListener("DOMContentLoaded", function () {
   // Sample data for cards
   const cards = [
     {
+      imageUrl: "./assets/whisperwall.png",
+      title: "Whisper Wall",
+      keywords:
+        "Node Express MongoDB React Javascript HTML TailwindCSS JWT Firebase Render",
+      url: "https://whisperwall-d2ry.onrender.com",
+    },
+    {
       imageUrl: "./assets/task-master.png",
       title: "Task Master",
       keywords: "React Javascript HTML CSS",
